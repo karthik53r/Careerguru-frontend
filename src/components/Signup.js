@@ -85,7 +85,7 @@ const Signup = () => {
         <label>Skills</label>
         <TagsInput/>
         <div>
-          <button type="submit">Submit</button>
+          <a type="button" className="btn btn-dark" style={{width: "100%", margin: "20px 0px"}} href="Afterlogin">Submit</a>
         </div>
       </form>
     </div>

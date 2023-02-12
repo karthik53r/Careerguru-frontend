@@ -24,7 +24,7 @@ export const Login=()=>{
             <label for="exampleCheck1" style={{fontSize: "medium"}}>Keep me signed in</label>
             <a type="button" className="btn btn-dark" style={{width: "100%", margin: "20px 0px"}} href="afterlogin">Login</a>
             <a href="#" style={{justifyContent: "center",display: "flex", fontSize:"large"}}>Forgot your password</a>
-            <p style={{fontSize: "large"}}>Don't have an account? <a href="#">Register here</a></p>
+            <p style={{fontSize: "large"}}>Don't have an account? <a href="signup">Register here</a></p>
         </form>
     </div>
         </div>

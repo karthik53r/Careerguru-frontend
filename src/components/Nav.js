@@ -30,7 +30,7 @@ export const Nav = () => {
                                 <li><a className="dropdown-item" href="#">Settings</a></li>
                                 <li><a className="dropdown-item" href="#">Help</a></li>
                                 <hr style={{margin: 5}}/>
-                                    <li><a className="dropdown-item" href="#">Logout</a></li>
+                                    <li><a className="dropdown-item" href="/">Logout</a></li>
                             </ul>
                         </div>
                     </ul>
